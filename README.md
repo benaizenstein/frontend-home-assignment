@@ -1,6 +1,6 @@
 # Frontend Home Assignment with Vue-3.
 
-# Deployed link :https://ben-aizenstein-assignment.000webhostapp.com/
+# https://ben-aizenstein-assignment.000webhostapp.com/
 
 ## Overview
 This project is a frontend home assignment showcasing Vue.js best practices. It includes functionalities to fetch and display a list of people from an API, view detailed information of selected individuals, and edit their names.
